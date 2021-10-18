@@ -6,5 +6,8 @@
 ### Software Engineer
 
 
+![](https://img.shields.io/twitter/url?style=social)
+![](https://img.shields.io/github/followers/geobesea?style=social)
+
 
 
