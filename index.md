@@ -11,10 +11,10 @@
 
 <table>
 <tr>
-<td>Facebook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="90" title="Facebook" /><br></td>
-<td>Twitter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="90" title="Twitter" /><br></td>
-<td>LinkedIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="90" title="LinkedIn" /><br></td>
-<td>Instagram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="90" title="Instagram" /><br></td>
+<td><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="45" title="Facebook" /><br></td>
+<td><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="45" title="Twitter" /><br></td>
+<td><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="45" title="LinkedIn" /><br></td>
+<td><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="45" title="Instagram" /><br></td>
 </tr>
 
 
