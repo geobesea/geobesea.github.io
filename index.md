@@ -1,6 +1,6 @@
 ## Welcome!
 
-<img src="images/GeorgianaBesea.JPG" alt="Georgiana Besea profile picture" class="img-rounded">
+<img src="images/GeorgianaBesea.JPG" class="img-rounded">
 
 ## Georgiana Nicoleta Besea
 ### Software Engineer
