@@ -1,6 +1,6 @@
 ## Welcome!
 
-<img src="https://github.com/geobesea/geobesea.github.io/blob/main/images/GeorgianaBesea.JPG" alt="Georgiana Besea profile picture" class="img-rounded">
+<img src="images/GeorgianaBesea.JPG" alt="Georgiana Besea profile picture" class="img-rounded">
 
 ## Georgiana Nicoleta Besea
 ### Software Engineer
